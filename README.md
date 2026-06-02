@@ -1,4 +1,6 @@
 # BooRoad — Travel Management WebApp
+[![Live Demo](https://img.shields.io/badge/live-demo-brightgreen)](https://booroad-project.netlify.app/)
+
 
 ## Project Overview
 BooRoad is a lightweight web application designed for a travel agency to help trip leaders manage journeys and guests. The app lets leaders consult available trips, add and manage individual travelers with their personal information, receive automatic warnings when a trip reaches the maximum capacity (15 guests), and contact guests easily when needed.
@@ -19,6 +21,7 @@ This project was developed as a group exercise focused on soft skills: fast proj
   - Vite 6.2.0
   - React Router DOM 7 (for routing and navigation)
   - React Select 5 (for dropdowns and select inputs)
+  - Netlify (for client side deployment)
 
 ## How to Run Locally
 1. Clone the repository.
@@ -32,6 +35,9 @@ This project was implemented as a collaborative group assignment:
 - [Angela Ferraro](https://github.com/AngelaFerraro18)
 - [Alessandro Malagni](https://github.com/alemalagni)
 - [Michele Didonna](https://github.com/micheledidonna01)
+
+## Live Demo
+[BooRoad](https://booroad-project.netlify.app/)
 
 ## Project Context: Soft-Skills Exercise
 The primary goal of this project was to practice collaborative development and soft skills, rather than advanced technical complexity.
